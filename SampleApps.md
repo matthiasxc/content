@@ -109,6 +109,12 @@ permalink: /SampleApps.htm
       <p><a class="btn btn-default" href="MCP23017Sample.htm" role="button">View details &raquo;</a></p>
     </div>
     <div class="col-md-4">
+      <h2>Grove Kit Samples</h2>
+      <span class="label label-info">New</span>
+      <p>Explore a dozen sensors from the Grove Starter Kit using these sample projects.</p>
+      <p><a class="btn btn-default" href="GroveSamples.htm" role="button">View details &raquo;</a></p>
+    </div>
+	<div class="col-md-4">
       <h2>Firmata and Cylon</h2>
       <p>Learn how to interact with your board using Firmata and Cylon .</p>
       <p><a class="btn btn-default" href="Firmata.htm" role="button">View details &raquo;</a></p>
